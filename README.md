@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/banner-2.JPG" />
+<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/banner.svg" />
+
+<br/>
 
 <p align="center">
   <a href="http://theresedj.com/">
