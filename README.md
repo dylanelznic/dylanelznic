@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/cpm35%202023-06-26%20163557.094.JPG" />
-
-</br>
+<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/banner-2.JPG" />
 
 <p align="center">
   <a href="http://theresedj.com/">
