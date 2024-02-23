@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/banner.svg" />
+<img src="https://raw.githubusercontent.com/dylanelznic/dylanelznic/master/images/cpm35%202023-06-26%20163557.094.JPG" />
 
 </br>
 
